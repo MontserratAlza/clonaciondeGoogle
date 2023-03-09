@@ -22,10 +22,10 @@ En este proyecto me enfoque en construir la clonación de la interfaz de Google.
 * Main: Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, iconos y botones. 
 * Footer: Sección que incluye hipervínculos al final de la página.
 
-3. Objetivo del Proyecto
+## 3. Objetivo del Proyecto
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
 
-4. Link a Demo
+## 4. Link a Demo
 Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](#)
 
 
